@@ -1,1 +1,1 @@
-# symfony6
+# wildseries
